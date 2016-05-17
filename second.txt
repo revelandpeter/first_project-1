@@ -1,2 +1,3 @@
 This is my second versioned file, hurray.
-	20 mins to lunch.
+20 mins to lunch.
+lunch was OK.
